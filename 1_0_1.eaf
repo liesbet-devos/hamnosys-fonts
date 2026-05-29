@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-16T10:04:29+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/liesbetdevos/Projects/GeoQuery-LSFB/videos/1_0_1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../videos/1_0_1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bb023f1c-8008-4762-9c12-64fbe90147d3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">38</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="2177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="2177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="2211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="4758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="4792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="5271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="5300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="5305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="6314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="6348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="7306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="7340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="8434"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="8434"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="8468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="9141"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="9146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="9146"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="ManualAnnotation" TIER_ID="RH Glosses">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>PALM-UP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>DANS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>FS:MISSISSIPPI</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>IL-Y-A</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>DS(BENT5):ETAT+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>PT:LOC(1)+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>HAUT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>QUOI</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ManualAnnotation" TIER_ID="LH Glosses">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>PALM-UP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>DANS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>DS(BENT5):ETAT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Meaning" TIER_ID="GeoProlog">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>answer(A,(high_point(B,A),state(B),next_to(B,C),const(C,stateid(mississippi))))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" TIER_ID="English translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>What are the high points of states surrounding Mississippi ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" TIER_ID="French Translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Quels sont les points culminants des États voisins du Mississippi ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" TIER_ID="Turkish translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>mississippi yi saran eyaletlerin yuksek noktalari nelerdir ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" TIER_ID="Japanese translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>mishishippi no mawari ni aru shuu no takai chiten wa nan desu ka ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" TIER_ID="Spanish translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>que son los puntos altos de los estados rodeando a mississippi ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="HamNoSys" PARENT_REF="RH Glosses" TIER_ID="RH HamNoSys">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="HamNoSys" PARENT_REF="LH Glosses" TIER_ID="LH HamNoSys">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Meaning" TIER_ID="GeoFunQL">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>answer(high_point_1(state(next_to_2(stateid('mississippi')))))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="ManualAnnotation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Locations" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Location" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Handshapes"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Handshape" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Movements" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Movement" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Orientations"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Orientation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Modifications"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Modification" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Meaning" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="HamNoSys" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Modifications">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_aa164d94-5090-427b-b4da-455ed1a9c06d">
+            <CVE_VALUE LANG_REF="und">REDUPLICATED</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bb15f46-5207-459a-bf43-efcefa2134a5">
+            <CVE_VALUE LANG_REF="und">ZIGZAG</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_66f7fb30-cbc4-48e7-9668-517a8fa91984">
+            <CVE_VALUE LANG_REF="und">WAVE</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Movements">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_7a41f308-f504-44ed-96d8-1622c8d7eca6">
+            <CVE_VALUE LANG_REF="und">CIRCLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e78f4f2a-ed81-459f-a724-9c5f237cf61c">
+            <CVE_VALUE LANG_REF="und">CROSS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b8fa5c71-3759-428d-a8b7-4042880bac53">
+            <CVE_VALUE LANG_REF="und">DOWN-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b8954968-910c-45d6-822c-c2b1e171500d">
+            <CVE_VALUE LANG_REF="und">DOWN-UP-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_68ecf2d6-f678-42c1-9c11-ed5d1795f90a">
+            <CVE_VALUE LANG_REF="und">IN-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6800b125-684e-46f4-a48d-3d2bb8b39e04">
+            <CVE_VALUE LANG_REF="und">IN-LEFT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c4964f43-4dc6-4d6e-b67f-2436d74ef0f6">
+            <CVE_VALUE LANG_REF="und">IN-LEFT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0ce95514-6072-486d-879a-6474337aba94">
+            <CVE_VALUE LANG_REF="und">IN-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fe72796e-b0de-44bc-aa86-fd104305cff0">
+            <CVE_VALUE LANG_REF="und">IN-OUT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e3c05492-317e-4336-a713-7594d53dd1f2">
+            <CVE_VALUE LANG_REF="und">IN-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_94b69a32-7b3b-458a-aeaa-905116c8e579">
+            <CVE_VALUE LANG_REF="und">IN-RIGHT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6baca9b5-b72e-4723-be93-6bc02b9faeaf">
+            <CVE_VALUE LANG_REF="und">IN-RIGHT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ca43a76b-c38b-4e59-950a-5fa294f14dd9">
+            <CVE_VALUE LANG_REF="und">LEFT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5ee6bf42-156a-43a7-9e26-9a6c67d48b42">
+            <CVE_VALUE LANG_REF="und">LEFT-IN-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f8ebc7be-e8cd-42b8-b2e2-404de667580a">
+            <CVE_VALUE LANG_REF="und">LEFT-IN-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8590bd7a-003e-40ea-a318-62e0d34a8f78">
+            <CVE_VALUE LANG_REF="und">LEFT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8a3652ab-da90-4a4d-b1d3-d29908aa8b44">
+            <CVE_VALUE LANG_REF="und">LEFT-OUT-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1aa3f49e-f823-443f-9845-2eccb4781018">
+            <CVE_VALUE LANG_REF="und">LEFT-OUT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9e5b032a-695b-44bd-8dd3-3d9de7ca0a1f">
+            <CVE_VALUE LANG_REF="und">LEFT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c63ee223-e0f6-4b99-b481-fca6fd612b32">
+            <CVE_VALUE LANG_REF="und">OUT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e41a19ba-97a7-45c6-8cea-7445765ae252">
+            <CVE_VALUE LANG_REF="und">OUT-IN-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b182367f-2529-489e-853f-6a6a9aa5ce18">
+            <CVE_VALUE LANG_REF="und">OUT-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_50deeb2a-142f-46c7-9f58-8b01ffcab600">
+            <CVE_VALUE LANG_REF="und">OUT-LEFT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d546f6ce-6706-4d75-839b-4fe0bb4fc947">
+            <CVE_VALUE LANG_REF="und">OUT-LEFT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_65f5ef25-eee0-4227-a678-da0aac463f73">
+            <CVE_VALUE LANG_REF="und">OUT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d316f12e-98cf-4d9e-acf8-97b7a4ece062">
+            <CVE_VALUE LANG_REF="und">OUT-RIGHT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ab0bbf50-393a-4b42-b192-281e7334714c">
+            <CVE_VALUE LANG_REF="und">OUT-RIGHT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7e1dcc3e-128a-4b01-8520-8dc3d01f4201">
+            <CVE_VALUE LANG_REF="und">RIGHT-IN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_56aedad0-4086-4caa-8966-757f6139e2c4">
+            <CVE_VALUE LANG_REF="und">RIGHT-IN-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3a40e53b-840b-4fad-9ae2-10be8c4f4aee">
+            <CVE_VALUE LANG_REF="und">RIGHT-IN-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b1d5f66-93cd-480b-9e2d-afb9ff678170">
+            <CVE_VALUE LANG_REF="und">RIGHT-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7ac6e5c9-f8c5-489f-9ba3-f9fe09469533">
+            <CVE_VALUE LANG_REF="und">RIGHT-LEFT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6e24111f-b912-4547-9508-dced65620792">
+            <CVE_VALUE LANG_REF="und">RIGHT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9621ce1d-708b-4e1e-ad4c-7dc4555a3463">
+            <CVE_VALUE LANG_REF="und">RIGHT-OUT-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4b0519c2-41ab-429e-a911-96fdc96f9a85">
+            <CVE_VALUE LANG_REF="und">RIGHT-OUT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bc3b71d9-37b9-4666-8855-6bbccd54b90a">
+            <CVE_VALUE LANG_REF="und">UP-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c79ceedb-a458-4665-819a-d306f510ca88">
+            <CVE_VALUE LANG_REF="und">UP-DOWN-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9e502ab2-e2d6-4824-9f82-7e34e7a5401d">
+            <CVE_VALUE LANG_REF="und">RIGHT-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e6f99009-f84e-46b7-8d34-059604098113">
+            <CVE_VALUE LANG_REF="und">UP-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a2bc3ad4-709d-482c-a10d-3de86611041f">
+            <CVE_VALUE LANG_REF="und">UP-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1fe71d80-e553-4a49-bbf5-a4c405ffc804">
+            <CVE_VALUE LANG_REF="und">LEFT-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_916baf7f-c258-44cf-82c6-0ce94bdb39b7">
+            <CVE_VALUE LANG_REF="und">LEFT-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3708795b-c5a0-4a0c-b5df-7066937996ba">
+            <CVE_VALUE LANG_REF="und">DOWN-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b6dd8168-11bc-4293-b7d7-560e1adc58d2">
+            <CVE_VALUE LANG_REF="und">DOWN-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_72711833-50a4-4cbe-b7a5-4ad14ef8303d">
+            <CVE_VALUE LANG_REF="und">RIGHT-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Orientations">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_71e8d19d-952b-415e-83fd-6a71fca4e8ea">
+            <CVE_VALUE LANG_REF="und">DOWN-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_54c9b8ba-3534-4b5e-b9dd-cc3d2cdea3a7">
+            <CVE_VALUE LANG_REF="und">DOWN-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f545f85b-de37-41d7-9f35-7a89407c3cf6">
+            <CVE_VALUE LANG_REF="und">DOWN-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61e26d49-87db-4420-b4bd-4e2a4356a365">
+            <CVE_VALUE LANG_REF="und">DOWN-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b5fcd676-edd1-496f-b8ea-93924b621bd0">
+            <CVE_VALUE LANG_REF="und">DOWN-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_98378990-4b6b-4876-8741-2f4c1a313414">
+            <CVE_VALUE LANG_REF="und">LEFT-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_461295dc-11a9-45f1-81d1-3f052903741c">
+            <CVE_VALUE LANG_REF="und">LEFT-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_12cc861d-a122-40b7-836d-a3f90eabecb2">
+            <CVE_VALUE LANG_REF="und">LEFT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_28f49227-d80b-4465-bf58-cbe10ea755af">
+            <CVE_VALUE LANG_REF="und">LEFT-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c314cc83-6124-453b-ae4b-df94b78a3be3">
+            <CVE_VALUE LANG_REF="und">RIGHT-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3e379286-3d93-4cbf-b590-d656f992a30a">
+            <CVE_VALUE LANG_REF="und">RIGHT-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c1d59ed6-94e9-4cfc-b2ad-20130c9769af">
+            <CVE_VALUE LANG_REF="und">RIGHT-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d015a11f-0302-4276-8e24-1b9035a24104">
+            <CVE_VALUE LANG_REF="und">RIGHT-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6eec4b82-18a4-4793-9274-e4fc1f5024af">
+            <CVE_VALUE LANG_REF="und">UP-DOWN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cc634f34-2f2c-4719-879d-dfe815c61aa0">
+            <CVE_VALUE LANG_REF="und">UP-LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2cd15f8e-967c-4e8a-a616-725893eb6957">
+            <CVE_VALUE LANG_REF="und">UP-OUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b3c8c5a-af03-426d-948f-933618333a09">
+            <CVE_VALUE LANG_REF="und">UP-RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f2f01332-3e33-4ba2-b290-90af9817f154">
+            <CVE_VALUE LANG_REF="und">UP-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Locations">
+        <DESCRIPTION LANG_REF="und">Distinct values for locations in the signing space</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_648e3405-ad55-4fe9-94b5-fad19b3f2458">
+            <CVE_VALUE LANG_REF="und">MIDDLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_138160e4-6374-48e9-a98f-7aad9a45f35b">
+            <CVE_VALUE LANG_REF="und">RIGHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3672484f-a85f-4435-826d-563f521bfa43">
+            <CVE_VALUE LANG_REF="und">LEFT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5cbdc931-8f60-4d62-b18c-b5e8030bee1c">
+            <CVE_VALUE LANG_REF="und">RH</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c4bb82c6-6a7f-4aa5-9cfe-d02c45b44b52">
+            <CVE_VALUE LANG_REF="und">LH</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="geoquery-vocabulary">
+        <DESCRIPTION LANG_REF="und">vocabulary of signs occuring int he geoquery corpus for LSFB</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ae85f333-5dcb-49ca-b080-f680c5e594c6">
+            <CVE_VALUE DESCRIPTION="aussi, même, comme, non plus" LANG_REF="und">AUSSI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e2d9ac2b-e26e-4bfb-ac4a-ee2e109dcdb9">
+            <CVE_VALUE DESCRIPTION="beaucoup, trop, plein, très" LANG_REF="und">BEAUCOUP.F</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_34cd9e59-50d9-4368-9952-e0d3ccb7ce4f">
+            <CVE_VALUE DESCRIPTION="beaucoup, trop, plein, très" LANG_REF="und">BEAUCOUP.X</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1b62c0e4-e6a6-43d0-bd6b-c2f273b5f984">
+            <CVE_VALUE DESCRIPTION="capital" LANG_REF="und">CAPITALE.6</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_912827e4-43a7-444e-9a70-0e1f2bb48fbc">
+            <CVE_VALUE DESCRIPTION="capital" LANG_REF="und">CAPITALE.MID</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8d1b64b8-c235-4a6a-af39-41df8323883c">
+            <CVE_VALUE DESCRIPTION="chiffre; numéro, nombre" LANG_REF="und">CHIFFRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1d2c6db7-ddc8-44e7-a7ec-46edaa123ae6">
+            <CVE_VALUE DESCRIPTION="choisir, selectionner" LANG_REF="und">CHOISIR</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8c14694c-a958-4bd3-af24-189c90b33300">
+            <CVE_VALUE DESCRIPTION="cinquante" LANG_REF="und">CINQUANTE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6cba3cda-051b-4e84-ae66-2adb817bf16e">
+            <CVE_VALUE DESCRIPTION="combien" LANG_REF="und">COMBIEN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_69bac160-2f7e-454c-a70e-6f33f25710f4">
+            <CVE_VALUE DESCRIPTION="complet, tout" LANG_REF="und">COMPLET.F</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_270bdc83-5cbe-4de5-bb7b-a0003028a1e4">
+            <CVE_VALUE DESCRIPTION="court, raccourcir" LANG_REF="und">COURT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b41b6aec-3d65-4927-af6f-177cb8096add">
+            <CVE_VALUE DESCRIPTION="dans, chez" LANG_REF="und">DANS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_79bb4b44-edeb-4e6e-9dfa-1140717413ec">
+            <CVE_VALUE
+                DESCRIPTION="différent, différence, différemment, autre, autrement" LANG_REF="und">DIFFERENT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_099bd4f6-8c8c-4999-a17c-7b0cfda4b686">
+            <CVE_VALUE LANG_REF="und">DS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8894a679-a49f-4868-8b09-a6edcf45eaa4">
+            <CVE_VALUE DESCRIPTION="eau, liquide" LANG_REF="und">EAU</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_82d5b8f0-430b-4312-a611-a147c2bd1e53">
+            <CVE_VALUE DESCRIPTION="ensemble" LANG_REF="und">ENSEMBLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1e5bf75e-b0e8-44fd-af88-a6497ba819db">
+            <CVE_VALUE DESCRIPTION="etat" LANG_REF="und">PAYS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3760bacf-a947-4493-b15c-056dcf38bdaf">
+            <CVE_VALUE DESCRIPTION="etroite" LANG_REF="und">ETROITE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd3b8e91-c8aa-4ae3-a742-ab2175f604b4">
+            <CVE_VALUE LANG_REF="und">FS:ALABAMA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_12d39ed3-5388-49c9-a8f8-a14d9b935de7">
+            <CVE_VALUE LANG_REF="und">FS:ALASKA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_98cdad84-fca0-4564-b345-c5ff1929b7b6">
+            <CVE_VALUE LANG_REF="und">FS:ALBANY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4efa787b-5cd0-4bcd-aa2c-0618ebf3cc10">
+            <CVE_VALUE LANG_REF="und">FS:ARIZONA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d573e107-fa3d-42c7-b1af-864f0884e6d8">
+            <CVE_VALUE LANG_REF="und">FS:ARKANSAS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4275699b-9ef2-46c3-ae3a-aaebb101428d">
+            <CVE_VALUE LANG_REF="und">FS:ATLANTA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_250d9498-fe25-492e-b8a5-72b7db480659">
+            <CVE_VALUE LANG_REF="und">FS:AUSTIN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_649c7ef4-b470-4ea2-8472-663ee8c49207">
+            <CVE_VALUE LANG_REF="und">FS:BATON-ROUGE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_945e9cfd-b988-4730-8920-485f5b2afe2f">
+            <CVE_VALUE LANG_REF="und">FS:BOSTON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f1234868-6b67-4ae6-a79c-c925ed7c3bc7">
+            <CVE_VALUE LANG_REF="und">FS:BOULDER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c0113d49-03a6-4ce2-9c89-a2d4d81077dc">
+            <CVE_VALUE LANG_REF="und">FS:CALIFORNIE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5bdd70ef-5da6-4152-8866-4e7f62d74db9">
+            <CVE_VALUE LANG_REF="und">FS:CHATTAHOOCHEE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0d4fbe59-0201-431b-ad13-931975ee723c">
+            <CVE_VALUE LANG_REF="und">FS:CHICAGO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6838a2ea-ca19-4de7-b8f0-44b47d349ce6">
+            <CVE_VALUE LANG_REF="und">FS:COLORADO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_90170402-4b17-43f9-825d-9c030ef219b3">
+            <CVE_VALUE LANG_REF="und">FS:COLUMBUS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e3dcc145-6961-4109-bd86-dc55f9e2ec81">
+            <CVE_VALUE LANG_REF="und">FS:CONNECTICUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fbb01342-9a2d-428a-86a2-fb7de4eb9ba1">
+            <CVE_VALUE LANG_REF="und">FS:DALLAS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_aea49329-5d09-474d-a7d8-63183e1b2c31">
+            <CVE_VALUE LANG_REF="und">FS:DEATH-VALLEY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c4e04f07-a2be-4137-86e0-50d16b7ceb62">
+            <CVE_VALUE LANG_REF="und">FS:DELAWARE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7ed69d14-ba80-40e0-ba42-9d029e7a383f">
+            <CVE_VALUE LANG_REF="und">FS:DENVER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c83dc72e-eb6e-471a-bae8-d83d69359ab6">
+            <CVE_VALUE LANG_REF="und">FS:DES-MOINES</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0d361c09-aff9-4af9-a098-0ddc102c0545">
+            <CVE_VALUE LANG_REF="und">FS:DETROIT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_022430e1-2403-464c-85b4-68efcf7303bb">
+            <CVE_VALUE LANG_REF="und">FS:ERIE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d729ed3f-a1df-46e6-af2f-2099675df9c3">
+            <CVE_VALUE LANG_REF="und">FS:FLINT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_107a7795-9a61-4ffe-b9e1-31f761efe761">
+            <CVE_VALUE LANG_REF="und">FS:FLORIDE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f3374abe-a631-408f-8974-244a585faffc">
+            <CVE_VALUE LANG_REF="und">FS:FORT-WAYNE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fd3c4227-06d6-4072-ae04-71d0b953cb1a">
+            <CVE_VALUE LANG_REF="und">FS:GEORGIE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1e56da97-318c-42ee-8df0-fb7789c98723">
+            <CVE_VALUE LANG_REF="und">FS:GUADALUPE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_25988dcf-6707-48ec-ba4b-7dafca22db07">
+            <CVE_VALUE DESCRIPTION="aussi, même, comme, non plus" LANG_REF="und">FS:GUADALUPE-PEAK</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4f9f4c87-27d2-49db-88a7-9ff554b4778a">
+            <CVE_VALUE LANG_REF="und">FS:HAWAII</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e13cdb28-332c-4ee0-8c93-f197664b8369">
+            <CVE_VALUE LANG_REF="und">FS:HOUSTON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d70f299d-4be9-42e2-a158-f6e52f4a27a1">
+            <CVE_VALUE LANG_REF="und">FS:IDAHO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a0bc9339-0c44-4409-b146-544c7cdd6dfe">
+            <CVE_VALUE LANG_REF="und">FS:ILLINOIS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0bcae5ce-ea20-4fcd-823f-61fa514103ee">
+            <CVE_VALUE LANG_REF="und">FS:INDIANA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8e39e826-d773-4c66-a00d-1bfcbb8879ac">
+            <CVE_VALUE LANG_REF="und">FS:INDIANAPOLIS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6b07004c-e851-4e92-a392-d0c5ce3d0ad1">
+            <CVE_VALUE LANG_REF="und">FS:IOWA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c05eca62-becc-4382-b0a7-5cce04109ac0">
+            <CVE_VALUE LANG_REF="und">FS:KALAMAZOO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3be4ea1a-12eb-40aa-b10a-27e5676545b6">
+            <CVE_VALUE LANG_REF="und">FS:KANSAS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_079e2225-4b5b-4d1b-ad8d-0e5dd1f72ed3">
+            <CVE_VALUE LANG_REF="und">FS:KENTUCKY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5a9de715-eb7d-4f1f-96ab-be93d5f5e71a">
+            <CVE_VALUE LANG_REF="und">FS:LOUISIANA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c0087a19-ab0e-4178-8669-43efb1b0468f">
+            <CVE_VALUE LANG_REF="und">FS:MAINE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_439450ba-78e2-469d-86cf-33f4e3a5e1d1">
+            <CVE_VALUE LANG_REF="und">FS:MARYLAND</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bdc74f3-3c55-4b7f-88fd-dce59420d5d6">
+            <CVE_VALUE LANG_REF="und">FS:MASSACHUSETTS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_91469012-c212-430c-8aa7-95e79e306f49">
+            <CVE_VALUE LANG_REF="und">FS:MIAMI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e8865e4a-a00f-40e1-a3c2-392a173630fc">
+            <CVE_VALUE LANG_REF="und">FS:MICHIGAN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c1dbb863-28cc-4b52-b891-e159c82f94bd">
+            <CVE_VALUE LANG_REF="und">FS:MINNEAPOLIS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cd935256-a646-478b-ad4e-53006e959db8">
+            <CVE_VALUE LANG_REF="und">FS:MINNESOTA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fb90cdd9-3f06-4335-96dd-0726d5d65319">
+            <CVE_VALUE LANG_REF="und">FS:MISSISSIPPI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f61c6fc8-ea76-41b2-834e-0a36ace26ecc">
+            <CVE_VALUE LANG_REF="und">FS:MISSOURI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0c279c5a-7253-4f9e-a84d-58b8009607c6">
+            <CVE_VALUE LANG_REF="und">FS:MONTANA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_35f1e9b2-1b27-4fa5-8c6c-53fb280e2b97">
+            <CVE_VALUE LANG_REF="und">FS:MONTGOMERY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_23764015-c63a-4686-a63c-ba150df58d14">
+            <CVE_VALUE LANG_REF="und">FS:MOUNT-MCKINLEY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_06339949-79fc-4ebb-9c9c-141f6b65f0ef">
+            <CVE_VALUE LANG_REF="und">FS:MOUNT-WHITNEY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d141b21f-4a3a-44fc-8bb4-9bde798154ee">
+            <CVE_VALUE LANG_REF="und">FS:NEBRASKA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4ffbb04a-04c0-4b77-b286-3949d5431313">
+            <CVE_VALUE LANG_REF="und">FS:NEVADA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b52a6dd8-568e-4599-81f2-17385892d8b6">
+            <CVE_VALUE LANG_REF="und">FS:NEW-HAMPSHIRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_838af638-1c7c-4eb9-b887-a8c12d2a9ab5">
+            <CVE_VALUE LANG_REF="und">FS:NEW-JERSEY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_37a62a3f-0e27-47f4-af4f-36c7df92a29d">
+            <CVE_VALUE LANG_REF="und">FS:NEW-MEXICO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8a2d7c66-1caf-48a3-9295-aaa2b8a22dff">
+            <CVE_VALUE LANG_REF="und">FS:NEW-ORLEANS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b066ac2-af26-453a-b316-d3693c23b1e6">
+            <CVE_VALUE LANG_REF="und">FS:NEW-YORK</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4a2997ad-5997-4695-9a38-8d0ffbb40261">
+            <CVE_VALUE LANG_REF="und">FS:NORTH-CAROLINA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_482c7345-728c-4816-8142-9ddf99cad678">
+            <CVE_VALUE LANG_REF="und">FS:NORTH-DAKOTA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_96f5680d-2adb-4237-b6ba-246f1011cbfd">
+            <CVE_VALUE LANG_REF="und">FS:NORTH-PLATTE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a4a4ec76-97b6-450c-9d7e-73b70c89d771">
+            <CVE_VALUE LANG_REF="und">FS:OHIO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_08499297-31e2-4e8b-8b97-03adaa3098f6">
+            <CVE_VALUE LANG_REF="und">FS:OKLAHOMA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af8afb9f-761e-47b4-8734-cb435e97e5c4">
+            <CVE_VALUE LANG_REF="und">FS:OREGON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a2f65649-1418-45a8-bc76-837038fa9bd1">
+            <CVE_VALUE LANG_REF="und">FS:PENNSYLVANIA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f8c95e35-18a5-44ac-b95d-1e8d52954fbb">
+            <CVE_VALUE LANG_REF="und">FS:PITTSBURGH</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_42881dea-23f3-49bd-b0bb-90ecc37d1008">
+            <CVE_VALUE LANG_REF="und">FS:PLANO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f7b95b54-8725-426b-b027-b79908ca9473">
+            <CVE_VALUE LANG_REF="und">FS:PORTLAND</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2dee2ba4-405f-45df-80b1-7a5672637c57">
+            <CVE_VALUE LANG_REF="und">FS:RHODE-ISLAND</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_11a90f25-d34f-4d11-a491-972deed0734c">
+            <CVE_VALUE DESCRIPTION="aussi, même, comme, non plus" LANG_REF="und">FS:RIO-GRANDE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b4adb661-5ddd-4bde-b940-515713af5bc2">
+            <CVE_VALUE LANG_REF="und">FS:RIVERSIDE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8c30acdf-a655-469e-9335-35a6d70085b4">
+            <CVE_VALUE LANG_REF="und">FS:ROCHESTER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_94c84b99-d897-4fa6-a8a7-0d5ea2a0c113">
+            <CVE_VALUE LANG_REF="und">FS:SACRAMENTO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_82b6fab0-e152-452a-9a94-ea9c728bff98">
+            <CVE_VALUE LANG_REF="und">FS:SALEM</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5cc72786-65e6-4bdd-a56c-bd2b92d32d91">
+            <CVE_VALUE LANG_REF="und">FS:SALT-LAKE-CITY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0ab53b96-59f3-4900-94fb-53a1695ac8c8">
+            <CVE_VALUE LANG_REF="und">FS:SAN-ANTONIO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8c620a4c-e3ea-41b9-9c8d-b38c64a6506f">
+            <CVE_VALUE LANG_REF="und">FS:SAN-DIEGO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d0f5f520-236e-480d-8f80-b2c192740a83">
+            <CVE_VALUE LANG_REF="und">FS:SAN-FRANSISCO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_69de33aa-2c41-4261-a2ee-9f5350b824c0">
+            <CVE_VALUE LANG_REF="und">FS:SAN-JOSE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2ec6ad97-ef1d-4acd-95cd-a51c8a90656d">
+            <CVE_VALUE LANG_REF="und">FS:SCOTTS-VALLEY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ee9fdc88-0a38-4f27-be40-2d7dced915ee">
+            <CVE_VALUE LANG_REF="und">FS:SEATTLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4306c8cd-bfa8-40c7-8983-10e9702efcbe">
+            <CVE_VALUE LANG_REF="und">FS:SOUTH-CAROLINA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bb8bed38-6ab7-42ff-b733-f9c650b3fc95">
+            <CVE_VALUE LANG_REF="und">FS:SOUTH-DAKOTA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9534ebf3-1be2-43a1-88d4-164404e1452b">
+            <CVE_VALUE LANG_REF="und">FS:SPOKANE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7eed92a9-5380-447f-806e-c7cb753ad428">
+            <CVE_VALUE LANG_REF="und">FS:SPRINGFIELD</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e7850a9c-fa4a-46d8-b7a5-d85f74a9bf04">
+            <CVE_VALUE LANG_REF="und">FS:TEMPE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fd125dc7-d861-4e55-ac5a-7590c116f774">
+            <CVE_VALUE LANG_REF="und">FS:TENNESSEE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_01f1908d-f65d-432c-8f9a-36d216b9df17">
+            <CVE_VALUE LANG_REF="und">FS:TEXAS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7bde85c2-8579-4aba-9d57-0461b84085b2">
+            <CVE_VALUE LANG_REF="und">FS:TUCSON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_25214b30-304e-435c-8107-d7d53a7d7ae9">
+            <CVE_VALUE LANG_REF="und">FS:UTAH</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4bdec160-9564-4249-8935-14d1f5ccd4dc">
+            <CVE_VALUE LANG_REF="und">FS:VERMONT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ad73f559-941d-4165-8f25-7279a9b28f85">
+            <CVE_VALUE LANG_REF="und">FS:VIRGINIA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f087cfc1-7c8d-493f-a81b-990939fc3470">
+            <CVE_VALUE LANG_REF="und">FS:VIRGINIE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_94c5e9c9-ff53-4d34-bee8-797acdee73c4">
+            <CVE_VALUE LANG_REF="und">FS:WASHINGTON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eb8a5e40-1e72-4c01-a5b9-5ffd9f97e758">
+            <CVE_VALUE LANG_REF="und">FS:WEST-VIRGINIA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c5e8054f-da28-4594-9c3e-9746fcbb0828">
+            <CVE_VALUE LANG_REF="und">FS:WISCONSIN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_56c51a83-cb69-4c73-8e5a-a9c4d1ede092">
+            <CVE_VALUE LANG_REF="und">FS:WYOMING</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_36a86aab-5a92-4f13-ae3d-97e813144e25">
+            <CVE_VALUE DESCRIPTION="grand, gros" LANG_REF="und">GRAND.5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2e537467-d198-41e7-8848-573ce41a00ca">
+            <CVE_VALUE DESCRIPTION="grand, gros" LANG_REF="und">GRAND.GROS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ebd9b377-088c-4a0a-9e4b-cb258bae115f">
+            <CVE_VALUE DESCRIPTION="grand, gros" LANG_REF="und">GRAND.L</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e8f0b544-69da-4b6e-9848-f8fd54eabc56">
+            <CVE_VALUE DESCRIPTION="habiter" LANG_REF="und">HABITER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6009da47-8846-450b-bf02-c06bcfb52c0b">
+            <CVE_VALUE DESCRIPTION="haut, hauteur, plafond" LANG_REF="und">HAUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2f47f6cf-82aa-4b1b-aa45-e95e1f3e8d17">
+            <CVE_VALUE DESCRIPTION="il y a" LANG_REF="und">IL-Y-A</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_afab76d3-3c2b-413e-88e8-a45449653e9f">
+            <CVE_VALUE DESCRIPTION="kilomètre, km" LANG_REF="und">KILOMETRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1a7d82d2-1c54-4a95-bf4f-7a3ab03aaf16">
+            <CVE_VALUE DESCRIPTION="long, longtemps, long terme" LANG_REF="und">LONG</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_75265dd2-11c3-4f7f-8cde-291064595623">
+            <CVE_VALUE DESCRIPTION="mais, ah" LANG_REF="und">MAIS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_756324f0-a614-4dca-b7d8-3df75b254cb9">
+            <CVE_VALUE DESCRIPTION="masse" LANG_REF="und">MASSE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_11f72ecb-abea-4774-8d7f-d2f693efb926">
+            <CVE_VALUE DESCRIPTION="maximum, plus haut, terminus" LANG_REF="und">MAXIMUM</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a94ebae7-436a-460c-b854-9129d5e3ad0d">
+            <CVE_VALUE DESCRIPTION="dire" LANG_REF="und">ME-DIRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7bc38614-f212-467c-bf4a-4d2bc7d5309d">
+            <CVE_VALUE DESCRIPTION="mètre" LANG_REF="und">METRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eceb13f7-ab54-40b5-b879-b7a1cd807971">
+            <CVE_VALUE DESCRIPTION="mètre carré, m2" LANG_REF="und">METRE-CARRE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4de33629-f70f-440a-8788-aaaf61920b4a">
+            <CVE_VALUE DESCRIPTION="(au) milieu, moyen" LANG_REF="und">MILIEU</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_65c4e418-cd01-45e4-a5b2-bd2e539b9230">
+            <CVE_VALUE DESCRIPTION="minimum" LANG_REF="und">MINIMUM</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e2cac7a4-e546-4bc0-930b-4791accb32b9">
+            <CVE_VALUE DESCRIPTION="montagne" LANG_REF="und">MONTAGNE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a5f66d76-06c1-42a4-bb3e-7e0939c1a273">
+            <CVE_VALUE DESCRIPTION="niveau haut, augmenter, au dessus" LANG_REF="und">NIVEAU.HAUT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1200f660-91e1-42d8-9aa8-f3fcb5d1e60b">
+            <CVE_VALUE DESCRIPTION="nom, appeler, s'appeler" LANG_REF="und">NOM.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_17bc7214-9ea3-405b-b940-59209738b1a0">
+            <CVE_VALUE DESCRIPTION="nom, appeler, s'appeler" LANG_REF="und">NOM.H</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a9c49288-d849-412f-8c56-e3336e84ad92">
+            <CVE_VALUE DESCRIPTION="ne, non, pas, peut pas" LANG_REF="und">NON</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_16479a0e-b156-4dd3-b0bd-e7978ca5f94c">
+            <CVE_VALUE
+                DESCRIPTION="États-Unis, Amérique, USA, américain" LANG_REF="und">NS:AMERIQUE.FRITES</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8192df83-2f26-472a-af16-7cd0a96c493d">
+            <CVE_VALUE
+                DESCRIPTION="États-Unis, Amérique, USA, américain" LANG_REF="und">NS:AMERIQUE.LAVER-VISAGE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5d085130-65f4-47a0-bbb1-2bbcabda20c5">
+            <CVE_VALUE LANG_REF="und">NS:AUSTIN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_42d9dfcf-9869-48f7-9f14-3c5bce8ee07a">
+            <CVE_VALUE DESCRIPTION="californie" LANG_REF="und">NS:CALIFORNIE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2dbbefae-aad9-481e-89ec-bf3eff53299d">
+            <CVE_VALUE DESCRIPTION="floride" LANG_REF="und">NS:FLORIDE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_753343c9-348b-44f0-8324-ae912dbb252f">
+            <CVE_VALUE DESCRIPTION="mexique" LANG_REF="und">NS:MEXIQUE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3c64ccbc-0ed6-4e4e-ab0a-d2d4865b97da">
+            <CVE_VALUE DESCRIPTION="aussi, même, comme, non plus" LANG_REF="und">NS:NEW-YORK(Y-LOC)</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_53ca55a9-c5fd-454f-abb9-ca40ac08fd16">
+            <CVE_VALUE DESCRIPTION="texas" LANG_REF="und">NS:TEXAS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4ae9a920-c76d-4972-a3d3-9b6cd7a8ab17">
+            <CVE_VALUE DESCRIPTION="où, quel endroit avec main plate" LANG_REF="und">OU-LIEU.5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9509fbe5-6778-4769-8885-053630c2e9b3">
+            <CVE_VALUE DESCRIPTION="où, quel endroit" LANG_REF="und">OU-LIEU.O</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c6cd0c80-9c9e-46f1-8498-dee2947bbd0c">
+            <CVE_VALUE DESCRIPTION="ou, ou bien" LANG_REF="und">OU.OU</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9c5483ce-490e-4fcd-91e4-3aa56c21cc82">
+            <CVE_VALUE LANG_REF="und">PALM-UP</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3ae1d44b-40ba-4a8e-b773-32582c0032a8">
+            <CVE_VALUE DESCRIPTION="passer, traverser, à travers, par" LANG_REF="und">PASSER.TRAVERSER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_88abca38-fb15-486f-86d5-2cd2f0cee094">
+            <CVE_VALUE DESCRIPTION="personne, quelqu'un, humain" LANG_REF="und">PERSONNE.BENT7</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f69b07a0-0dce-4edd-916b-a3a1475ea213">
+            <CVE_VALUE DESCRIPTION="personne, quelqu'un, humain" LANG_REF="und">PERSONNE.HUMAIN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6f297666-f244-458b-b9c2-e59fb794475e">
+            <CVE_VALUE DESCRIPTION="petit" LANG_REF="und">PETIT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_46e117ec-597b-4672-87b2-e805489b9887">
+            <CVE_VALUE DESCRIPTION="petit" LANG_REF="und">PETIT.L</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ad9f2592-d9c5-473f-a509-3c37f0e4ba3e">
+            <CVE_VALUE DESCRIPTION="petit" LANG_REF="und">PETIT.TAILLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fb9b9263-2f4a-4248-b9f6-b3d9e0c15ee5">
+            <CVE_VALUE DESCRIPTION="peu, pas assez" LANG_REF="und">PEU</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f73bc563-b9b7-4459-bda6-47223d268ff1">
+            <CVE_VALUE DESCRIPTION="plus, de plus en plus" LANG_REF="und">PLUS.P</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e57a85a9-0994-4621-8913-d4b9103ace26">
+            <CVE_VALUE
+                DESCRIPTION="plusieurs, nombreux, certains, quelques, etc." LANG_REF="und">PLUSIEURS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cf30a5d2-13b2-4dd0-9a6e-eda67e50056a">
+            <CVE_VALUE LANG_REF="und">PT:POSS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_626b606b-5625-47b0-bd61-2369804e74a7">
+            <CVE_VALUE DESCRIPTION="possible, capable" LANG_REF="und">POSSIBLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd829e52-4fb1-4441-b576-96ba4e708098">
+            <CVE_VALUE DESCRIPTION="pour" LANG_REF="und">POUR</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2c8772a5-63e9-4172-a01f-e60cb197147a">
+            <CVE_VALUE
+                DESCRIPTION="pointure vers la milieu dans l'espace" LANG_REF="und">PT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b3991256-8f76-4d8b-bb48-9e3a81b0207f">
+            <CVE_VALUE DESCRIPTION="quel, quelle" LANG_REF="und">QUELLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2d1ed023-bc2b-44b3-87d6-251075c9c862">
+            <CVE_VALUE DESCRIPTION="que, quoi" LANG_REF="und">QUOI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f471498a-44af-4309-b527-525819ca4735">
+            <CVE_VALUE DESCRIPTION="reconnu, connu, connaître" LANG_REF="und">RECONNU</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_35d0375a-0ea6-440f-88c7-20eab5a8d73c">
+            <CVE_VALUE DESCRIPTION="record" LANG_REF="und">RECORD</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6dfc0424-7580-4479-9af7-5a7771461f07">
+            <CVE_VALUE DESCRIPTION="rien, pas" LANG_REF="und">RIEN.IRISH-H</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61dd936d-44a9-4b8e-8d07-cac627ec796f">
+            <CVE_VALUE DESCRIPTION="rivière" LANG_REF="und">RIVIERE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_68c3c86c-972b-4fb6-92c2-2d706c8b2b2d">
+            <CVE_VALUE DESCRIPTION="rivière" LANG_REF="und">RIVIERE.K</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fab86f7d-2ac4-4c87-8b5e-acca61c0dca4">
+            <CVE_VALUE DESCRIPTION="serrer" LANG_REF="und">SERRER</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_843bd0ea-862d-402b-996b-e1f2a6c631a1">
+            <CVE_VALUE DESCRIPTION="total, cluturer" LANG_REF="und">TOTAL</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0b121f59-dda4-4723-a3ca-4ce2890cb476">
+            <CVE_VALUE DESCRIPTION="un, une, 1" LANG_REF="und">UN</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3cc23f57-fb06-437e-b6bf-08db84bcc3fe">
+            <CVE_VALUE DESCRIPTION="ville, urbain" LANG_REF="und">VILLE</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_77be198b-eb74-4925-b1b1-4548480c4982">
+            <CVE_VALUE DESCRIPTION="taille" LANG_REF="und">TAILLE.1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5ef279ac-878a-48dd-bab6-ae1a18f08277">
+            <CVE_VALUE DESCRIPTION="taille" LANG_REF="und">TAILLE.T</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5d35ea51-71ba-49e4-9f16-5bfb419d8452">
+            <CVE_VALUE DESCRIPTION="taille" LANG_REF="und">TAILLE.F</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4a024b84-484f-4fcb-92b1-6a1f71de187b">
+            <CVE_VALUE LANG_REF="und">RIVIERE.5</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Handshapes">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_3f1616f1-eec1-4e44-af52-848e1705ecf5">
+            <CVE_VALUE LANG_REF="und">!</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a6bf12ea-a1ca-44e2-a1ea-5bb8484b3370">
+            <CVE_VALUE LANG_REF="und">1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b5879bf-2a9b-4fc3-891b-4306b37898c6">
+            <CVE_VALUE LANG_REF="und">12</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e320ddec-d453-480e-80fa-59b3bc922575">
+            <CVE_VALUE LANG_REF="und">2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c4257d43-e422-4bf6-a742-4056732f5136">
+            <CVE_VALUE LANG_REF="und">3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7de67365-16ad-469b-b758-18fbe96d01a3">
+            <CVE_VALUE LANG_REF="und">4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d38b476a-77c6-41f0-b0a0-5ce12ecb8fd6">
+            <CVE_VALUE LANG_REF="und">5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_049fc349-f784-4658-8576-0843b9fb37ad">
+            <CVE_VALUE LANG_REF="und">6</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_220bb75c-62a7-484b-b5ca-3b89f3e4bf64">
+            <CVE_VALUE LANG_REF="und">7</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_be60581b-5d39-4e39-8862-d5d283535ab0">
+            <CVE_VALUE LANG_REF="und">8</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5cc47e90-8ce9-4556-be1d-4713789eb06c">
+            <CVE_VALUE LANG_REF="und">B</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6254bfaa-50d1-452c-9868-465ac80d2766">
+            <CVE_VALUE LANG_REF="und">BA</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a4d992bf-f4a1-4fde-8c40-198015388ce8">
+            <CVE_VALUE LANG_REF="und">BC</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a38b79d9-a775-45bb-8849-8d555012932d">
+            <CVE_VALUE LANG_REF="und">BENT2</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1007c9a9-e684-4b27-875a-500b42827448">
+            <CVE_VALUE LANG_REF="und">BENT3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6402d861-7333-49d3-bf8f-9e588e6585b1">
+            <CVE_VALUE LANG_REF="und">BENT4</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c55626da-738e-41fd-a1f2-0c02718f2ff4">
+            <CVE_VALUE LANG_REF="und">BENT5</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1f49a047-0ad9-4d86-88d8-6837ee404724">
+            <CVE_VALUE LANG_REF="und">BENT7</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_90405fd8-8e90-429d-abaa-74c43683c1fc">
+            <CVE_VALUE LANG_REF="und">BENT8</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c5b238de-f8bc-4a14-a38e-1d291d0e1d4e">
+            <CVE_VALUE LANG_REF="und">BENTB</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1fcdbc9a-867d-45a0-9160-506eaf53aa66">
+            <CVE_VALUE LANG_REF="und">BENTI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9e14f6ca-b21e-4214-ac92-ed77a2026d66">
+            <CVE_VALUE LANG_REF="und">CLAW3</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9aa7bab6-45c6-4510-942c-65f91858b58f">
+            <CVE_VALUE LANG_REF="und">CURVEDB</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2ea19b73-3a93-4a4b-a408-f9dead7519d1">
+            <CVE_VALUE LANG_REF="und">D</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0176c998-fe81-44f5-b2be-c199b4922269">
+            <CVE_VALUE LANG_REF="und">E</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ebfa9236-bad5-4678-8161-9219022a3664">
+            <CVE_VALUE LANG_REF="und">FC</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5f7f3e85-25dc-4138-9724-dee2077b5166">
+            <CVE_VALUE LANG_REF="und">FLATBC</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0cd62150-909b-4822-a635-cb8bece6674c">
+            <CVE_VALUE LANG_REF="und">FLATF</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f85224de-04c3-483a-89f4-508c07d5d612">
+            <CVE_VALUE LANG_REF="und">FLATFC</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_257b6329-eb8c-4a39-b41b-7f406b340d96">
+            <CVE_VALUE LANG_REF="und">FLATGO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_74b34904-f8a1-4ec9-afc4-bef8d9454cfb">
+            <CVE_VALUE LANG_REF="und">FLATO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f68bc077-90bd-469c-9d6d-1d4a9a2eae29">
+            <CVE_VALUE LANG_REF="und">GC</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a2be3aa4-2c52-487d-829e-92bee2e83af7">
+            <CVE_VALUE LANG_REF="und">GCFLAT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e57c320a-a0a3-42ec-b4b9-85eaf2832d79">
+            <CVE_VALUE LANG_REF="und">GO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c3e1454e-bc25-4846-9581-44a89cd148b0">
+            <CVE_VALUE LANG_REF="und">H</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_118b246c-1e27-4e51-8407-12f95a924a73">
+            <CVE_VALUE LANG_REF="und">HCFLAT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ac52a9fe-8dae-4a54-9e68-cc7e4db5f476">
+            <CVE_VALUE LANG_REF="und">HTHUMB</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60412c1e-d4a4-407f-9c75-b7e0515854b9">
+            <CVE_VALUE LANG_REF="und">I</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_71e2c507-2dfa-4ec0-b064-1a873c946046">
+            <CVE_VALUE LANG_REF="und">ILY</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d34292da-1041-45e9-b2ea-ea8005c4cd13">
+            <CVE_VALUE LANG_REF="und">IRISHH</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_204476b3-e5bd-40e1-b90d-8bb379dad962">
+            <CVE_VALUE LANG_REF="und">IRISHK</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_032dff91-cc11-415a-bd1d-cb91f7f322cf">
+            <CVE_VALUE LANG_REF="und">IRISHT</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c85c48f3-26bc-44a5-98d0-21f95635378c">
+            <CVE_VALUE LANG_REF="und">M</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1e9a65fb-c066-46db-9454-d45069a6af38">
+            <CVE_VALUE LANG_REF="und">M1</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_411751e7-8818-4dca-982f-c62fd4de82c0">
+            <CVE_VALUE LANG_REF="und">MID</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_620804e4-4d41-4a61-a0dd-e5298b75064b">
+            <CVE_VALUE LANG_REF="und">MIDO</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_01aa5797-b5fa-4aba-909e-25a3184fd11b">
+            <CVE_VALUE LANG_REF="und">N</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6cfbb1d0-a281-4f36-ae4d-3faf2ef14674">
+            <CVE_VALUE LANG_REF="und">O</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3639cb1b-7d22-4ba6-a5b7-aaa90f3b4f4f">
+            <CVE_VALUE LANG_REF="und">P</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61851431-8293-4e14-9efa-440f0db6234d">
+            <CVE_VALUE LANG_REF="und">R</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_646d43e1-9dce-42b9-b062-a5f9d6749ef4">
+            <CVE_VALUE LANG_REF="und">S</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b981ef24-dc54-461f-a8f9-53c227dd5b0a">
+            <CVE_VALUE LANG_REF="und">VI</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_062ecca2-8ffb-4768-b41f-585c32f7acf3">
+            <CVE_VALUE LANG_REF="und">X</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4ff26e90-8e92-4704-8bf4-8fcd2a9a5919">
+            <CVE_VALUE LANG_REF="und">Y</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
