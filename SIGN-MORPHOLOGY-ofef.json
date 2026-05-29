@@ -1,0 +1,440 @@
+{
+  "configuration": {
+    "parse-order":  [
+      "morph",
+       "lex",
+       "cxn"
+    ],
+     "heuristic-value-mode":  ":sum-heuristics-and-parent",
+     "max-number-of-nodes":  500,
+     "max-nr-of-nodes":  250,
+     "initial-categorial-link-weight":  0.0,
+     "create-initial-structure-mode":  ":one-pole-mode",
+     "draw-meaning-as-network":  true,
+     "production-order":  [
+      "lex",
+       "cxn",
+       "morph"
+    ],
+     "cxn-supplier-mode":  ":all-cxns",
+     "node-expansion-mode":  ":full-expansion",
+     "construction-inventory-processor-mode":  ":heuristic-search",
+     "production-goal-tests":  [
+      ":no-applicable-cxns",
+       ":no-meaning-in-root",
+       ":connected-structure"
+    ],
+     "update-boundaries-feature":  "subunits",
+     "use-meta-layer":  true,
+     "render-mode":  ":signed-form-predicates",
+     "consolidate-repairs":  false,
+     "parse-goal-tests":  [
+      ":no-applicable-cxns",
+       ":connected-semantic-network",
+       ":connected-structure"
+    ],
+     "form-predicates":  [
+      "meets",
+       "precedes",
+       "fields",
+       "first"
+    ],
+     "equivalent-meaning-mode":  ":unify-no-equalities",
+     "de-render-mode":  ":signed-form-predicates",
+     "heuristics":  [
+      ":nr-of-applied-cxns",
+       ":nr-of-predicates-matched",
+       ":nr-of-units-matched-with-meaning-args"
+    ],
+     "category-linking-mode":  ":neighbours",
+     "max-search-depth":  50,
+     "show-meaning/utterance":  false,
+     "root-mode":  true,
+     "search-algorithm":  ":best-first",
+     "node-tests":  [
+      ":check-duplicate",
+       ":restrict-nr-of-nodes",
+       ":restrict-search-depth"
+    ],
+     "shuffle-cxns-before-application":  true
+  },
+  "feature-types": [
+    [
+      "subunits",
+       "set"
+    ],
+     [
+      "footprints",
+       "set"
+    ],
+     [
+      "form",
+       "set-of-predicates"
+    ],
+     [
+      "meaning",
+       "set-of-predicates"
+    ]
+  ],
+  "categorial-network": {
+    "nodes": [
+      
+    ],
+    "edges": [
+      
+    ]
+  },
+  "cxns": {
+    "fall-behind-cxn":  {
+      "name":  "fall-behind-cxn",
+       "contributing-pole":  [
+        
+      ],
+       "conditional-pole":  [
+        [
+          "?fall-behind-unit",
+          {
+            "type": "spatial-relationship",
+            "#meaning": [
+              [
+                "lag.01",
+                 "?l"
+              ],
+               [
+                "arg0-of",
+                 "?l",
+                 "?e-1"
+              ],
+               [
+                "arg1-of",
+                 "?l",
+                 "?e-2"
+              ]
+            ]
+          },
+          {
+            "meaning-args": {
+              "spatial-relationship":  "?l",
+               "arg-1":  "?e-1",
+               "arg-2":  "?e-2"
+            }
+          }
+        ],
+        [
+          "?entity-1",
+          {
+            "type": "entity",
+            "meaning-arg": "?e-1"
+          },
+          {
+            "phonetic-components": {
+              "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ],
+        [
+          "?entity-2",
+          {
+            "type": "entity",
+            "meaning-arg": "?e-2"
+          },
+          {
+            "phonetic-components": {
+              "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ]
+      ]
+    },
+     "catch-up-cxn":  {
+      "name":  "catch-up-cxn",
+       "contributing-pole":  [
+        
+      ],
+       "conditional-pole":  [
+        [
+          "?catch-up-unit",
+          {
+            "#meaning": [
+              [
+                "catch_up.04",
+                 "?c"
+              ],
+               [
+                "arg1-of",
+                 "?c",
+                 "?e-1"
+              ],
+               [
+                "arg2-of",
+                 "?c",
+                 "?e-2"
+              ]
+            ],
+            "type": "spatial-relationship"
+          },
+          {
+            "meaning-args": {
+              "spatial-relationship":  "?c",
+               "arg-1":  "?e-1",
+               "arg-2":  "?e-2"
+            }
+          }
+        ],
+        [
+          "?entity-1",
+          {
+            "type": "entity",
+            "meaning-arg": "?e-1"
+          },
+          {
+            "phonetic-components": {
+              "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ],
+        [
+          "?entity-2",
+          {
+            "type": "entity",
+            "meaning-arg": "?e-2"
+          },
+          {
+            "phonetic-components": {
+              "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ]
+      ]
+    },
+     "paired-entities-cxn":  {
+      "name":  "paired-entities-cxn",
+       "contributing-pole":  [
+        [
+          "?spatial-relationship-unit",
+          {
+            "type": "spatial-relationship",
+            "subunits": [
+              "?paired-entities-unit"
+            ],
+            "meaning-args": {
+              "spatial-relationship":  "?s",
+               "arg-1":  "?e-1",
+               "arg-2":  "?e-2"
+            }
+          }
+        ],
+        [
+          "?paired-entities-unit",
+          {
+            "subunits": [
+              "?entity-1",
+               "?entity-2"
+            ]
+          }
+        ]
+      ],
+       "conditional-pole":  [
+        [
+          "?paired-entities-unit",
+          {
+            "#meaning": [
+              [
+                "pair.01",
+                 "?p"
+              ],
+               [
+                "argo-of",
+                 "?p",
+                 "?s"
+              ],
+               [
+                "arg1-of",
+                 "?p",
+                 "?e-1"
+              ],
+               [
+                "arg2-of",
+                 "?p",
+                 "?e-2"
+              ]
+            ]
+          },
+          {
+            "#form": [
+              [
+                "during",
+                 "?entity-1-form",
+                 "?entity-2-form"
+              ]
+            ]
+          }
+        ],
+        [
+          "?entity-1",
+          {
+            "meaning-arg": "?e-1",
+            "type": "entity"
+          },
+          {
+            "form-arg": "?entity-1-form",
+            "phonetic-components": {
+              "handshape": ""
+            }
+          }
+        ],
+        [
+          "?entity-2",
+          {
+            "type": "entity",
+            "meaning-arg": "?e-2"
+          },
+          {
+            "form-arg": "?entity-2-form",
+            "phonetic-components": {
+              "handshape": ""
+            }
+          }
+        ]
+      ]
+    },
+     "a-entity-3":  {
+      "name":  "a-entity-3",
+       "contributing-pole":  [
+        [
+          "?entity-unit",
+          {
+            "type": "entity",
+            "form-arg": "?entity-form",
+            "meaning-arg": "?e",
+            "phonetic-components": {
+              "handshape":  "",
+               "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ]
+      ],
+       "conditional-pole":  [
+        [
+          "?entity-unit",
+          {
+            "#meaning": [
+              [
+                "entity",
+                 "?e"
+              ]
+            ]
+          },
+          {
+            "#form": [
+              [
+                "right-hand-articulation",
+                 "?entity-form",
+                 "\"\""
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+     "a-entity-2":  {
+      "name":  "a-entity-2",
+       "contributing-pole":  [
+        [
+          "?entity-unit",
+          {
+            "type": "entity",
+            "form-arg": "?entity-form",
+            "meaning-arg": "?e",
+            "phonetic-components": {
+              "handshape":  "",
+               "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ]
+      ],
+       "conditional-pole":  [
+        [
+          "?entity-unit",
+          {
+            "#meaning": [
+              [
+                "entity",
+                 "?e"
+              ]
+            ]
+          },
+          {
+            "#form": [
+              [
+                "left-hand-articulation",
+                 "?entity-form",
+                 "\"\""
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+     "a-entity-1":  {
+      "name":  "a-entity-1",
+       "contributing-pole":  [
+        [
+          "?entity-unit",
+          {
+            "type": "entity",
+            "form-arg": "?entity-form",
+            "meaning-arg": "?e",
+            "phonetic-components": {
+              "handshape":  "",
+               "finger-orientation":  "",
+               "palm-orientation":  "",
+               "location":  "",
+               "movement":  ""
+            }
+          }
+        ]
+      ],
+       "conditional-pole":  [
+        [
+          "?entity-unit",
+          {
+            "#meaning": [
+              [
+                "entity",
+                 "?e"
+              ]
+            ]
+          },
+          {
+            "#form": [
+              [
+                "right-hand-articulation",
+                 "?entity-form",
+                 "\"\""
+              ]
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}
